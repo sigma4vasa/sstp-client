@@ -32,6 +32,7 @@
 #include <sys/types.h>
 #include <sys/uio.h>
 #include <unistd.h>
+#include <time.h>
 
 #include <sstp-common.h>
 #include <sstp-log.h>

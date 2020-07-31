@@ -46,6 +46,7 @@
 #include <sys/socket.h>
 #include <unistd.h>
 #include <openssl/ssl.h>
+#include <time.h>
 
 #include "sstp-private.h"
 

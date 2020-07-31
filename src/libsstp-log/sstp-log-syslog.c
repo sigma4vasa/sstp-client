@@ -32,6 +32,7 @@
 #include <sys/uio.h>
 #include <sys/un.h>
 #include <sys/socket.h>
+#include <time.h>
 #include <unistd.h>
 
 #include <sstp-common.h>
